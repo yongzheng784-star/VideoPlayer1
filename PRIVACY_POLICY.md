@@ -16,12 +16,12 @@
 ## 二、我们如何收集信息
 
 1. **本地存储**：您的历史记录、收藏、播放设置（如倍速、自动下一集开关）等数据均存储在您的设备本地数据库（Room）和 SharedPreferences 中，我们不会主动上传到服务器。
-2. **广告 SDK**：本应用集成了 Start.io 广告 SDK。Start.io 可能会收集您的设备信息、广告标识符、IP 地址等，用于广告投放和效果分析。具体请参见 [Start.io 隐私政策](https://www.start.io/policy/privacy-policy/)。
+2. **广告 SDK**：本应用集成了 Appodeal 广告 SDK，并可能通过 Appodeal 聚合的广告合作方展示广告，包括 AppLovin、BidMachine、BigoAds、Mintegral、UnityAds、Vungle 等。Appodeal 及其广告合作方可能会收集您的设备信息、广告标识符、IP 地址等，用于广告投放、广告填充、反作弊和效果分析。具体请参见 [Appodeal 隐私政策](https://appodeal.com/privacy-policy/)。
 3. **数据分析**：本应用目前未集成第三方数据分析 SDK。如有更新，我们将通过本政策告知您。
 
 ## 三、广告与第三方服务
 
-本应用使用 Start.io 提供的广告服务，包括横幅广告（Banner）和插屏广告（Interstitial）。这些广告可能会根据您的兴趣和设备信息展示个性化广告。
+本应用使用 Appodeal 提供的广告服务，包括横幅广告（Banner）和插屏广告（Interstitial）。Appodeal 可能会通过其广告合作方进行广告请求、填充和展示。这些广告可能会根据您的兴趣和设备信息展示个性化广告。
 
 - 您可以在 Android 系统设置中重置或关闭广告标识符。
 - 本应用不会在未成年人专属内容中展示不适宜的广告。
@@ -71,12 +71,12 @@ To provide you with video browsing, search, playback, history, and favorites ser
 ## 2. How We Collect Information
 
 1. **Local Storage**: Your history, favorites, and playback settings (playback speed, auto-next switch, etc.) are stored in the local Room database and SharedPreferences on your device. We do not actively upload them to our servers.
-2. **Advertising SDK**: This App integrates the Start.io advertising SDK. Start.io may collect your device information, advertising ID, IP address, etc., for ad delivery and analytics. Please refer to the [Start.io Privacy Policy](https://www.start.io/policy/privacy-policy/) for details.
+2. **Advertising SDK**: This App integrates the Appodeal advertising SDK and may show ads through advertising partners mediated by Appodeal, including AppLovin, BidMachine, BigoAds, Mintegral, UnityAds, Vungle, and others. Appodeal and its advertising partners may collect device information, Advertising ID, IP address, and similar data for ad delivery, ad fill, fraud prevention, and performance analytics. Please refer to the [Appodeal Privacy Policy](https://appodeal.com/privacy-policy/) for details.
 3. **Analytics**: This App does not currently integrate third-party analytics SDKs. If this changes, we will notify you through this policy.
 
 ## 3. Advertising and Third-Party Services
 
-This App uses Start.io advertising services, including Banner ads and Interstitial ads. These ads may be personalized based on your interests and device information.
+This App uses Appodeal advertising services, including Banner ads and Interstitial ads. Appodeal may request, fill, and show ads through its advertising partners. These ads may be personalized based on your interests and device information.
 
 - You can reset or disable the Advertising ID in your Android system settings.
 - This App will not display inappropriate ads in content intended for minors.
