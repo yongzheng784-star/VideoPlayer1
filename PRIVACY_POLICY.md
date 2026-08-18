@@ -1,6 +1,6 @@
 # 韩剧TV 隐私政策
 
-**生效日期：** 2026 年 7 月 13 日
+**生效日期：** 2026 年 8 月 18 日
 
 感谢您使用 韩剧TV（以下简称“本应用”）。本政策将向您说明本应用如何收集、使用和保护您的个人信息。请在使用本应用前仔细阅读本政策。
 
@@ -16,12 +16,12 @@
 ## 二、我们如何收集信息
 
 1. **本地存储**：您的历史记录、收藏、播放设置（如倍速、自动下一集开关）等数据均存储在您的设备本地数据库（Room）和 SharedPreferences 中，我们不会主动上传到服务器。
-2. **广告 SDK**：本应用集成了 Appodeal 广告 SDK，并可能通过 Appodeal 聚合的广告合作方展示广告，包括 AppLovin、BidMachine、BigoAds、Mintegral、UnityAds、Vungle 等。Appodeal 及其广告合作方可能会收集您的设备信息、广告标识符、IP 地址等，用于广告投放、广告填充、反作弊和效果分析。具体请参见 [Appodeal 隐私政策](https://appodeal.com/privacy-policy/)。
+2. **广告 SDK**：本应用集成了 Google AdMob 广告 SDK。AdMob 可能会收集您的设备信息、广告标识符、IP 地址、应用交互数据、诊断信息、设备 ID 等，用于广告投放、广告填充、反作弊和效果分析。具体请参见 [Google AdMob 隐私政策](https://policies.google.com/privacy)。
 3. **数据分析**：本应用目前未集成第三方数据分析 SDK。如有更新，我们将通过本政策告知您。
 
 ## 三、广告与第三方服务
 
-本应用使用 Appodeal 提供的广告服务，包括横幅广告（Banner）和插屏广告（Interstitial）。Appodeal 可能会通过其广告合作方进行广告请求、填充和展示。这些广告可能会根据您的兴趣和设备信息展示个性化广告。
+本应用使用 Google AdMob 提供的广告服务，包括横幅广告（Banner）和插屏广告（Interstitial）。AdMob 可能会根据您的兴趣和设备信息展示个性化广告。
 
 - 您可以在 Android 系统设置中重置或关闭广告标识符。
 - 本应用不会在未成年人专属内容中展示不适宜的广告。
@@ -55,7 +55,7 @@
 
 # HanJu TV Privacy Policy
 
-**Effective Date:** July 13, 2026
+**Effective Date:** August 18, 2026
 
 Thank you for using HanJu TV (hereinafter referred to as "this App"). This policy explains how this App collects, uses, and protects your personal information. Please read this policy carefully before using the App.
 
@@ -71,12 +71,12 @@ To provide you with video browsing, search, playback, history, and favorites ser
 ## 2. How We Collect Information
 
 1. **Local Storage**: Your history, favorites, and playback settings (playback speed, auto-next switch, etc.) are stored in the local Room database and SharedPreferences on your device. We do not actively upload them to our servers.
-2. **Advertising SDK**: This App integrates the Appodeal advertising SDK and may show ads through advertising partners mediated by Appodeal, including AppLovin, BidMachine, BigoAds, Mintegral, UnityAds, Vungle, and others. Appodeal and its advertising partners may collect device information, Advertising ID, IP address, and similar data for ad delivery, ad fill, fraud prevention, and performance analytics. Please refer to the [Appodeal Privacy Policy](https://appodeal.com/privacy-policy/) for details.
+2. **Advertising SDK**: This App integrates the Google AdMob advertising SDK. AdMob may collect device information, Advertising ID, IP address, app interaction data, diagnostic information, device IDs, and similar data for ad delivery, ad fill, fraud prevention, and performance analytics. Please refer to the [Google AdMob Privacy Policy](https://policies.google.com/privacy) for details.
 3. **Analytics**: This App does not currently integrate third-party analytics SDKs. If this changes, we will notify you through this policy.
 
 ## 3. Advertising and Third-Party Services
 
-This App uses Appodeal advertising services, including Banner ads and Interstitial ads. Appodeal may request, fill, and show ads through its advertising partners. These ads may be personalized based on your interests and device information.
+This App uses Google AdMob advertising services, including Banner ads and Interstitial ads. Ads may be personalized based on your interests and device information.
 
 - You can reset or disable the Advertising ID in your Android system settings.
 - This App will not display inappropriate ads in content intended for minors.
